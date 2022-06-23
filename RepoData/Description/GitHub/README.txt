@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Sandwich crafting software with a bit of WitchCraft. Manage a sub shop or burger joint, or just your own house with WichCraft.
