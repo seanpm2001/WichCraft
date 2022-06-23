@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Exec=WichCraft %u
+MimeType=application/x-your-mime-type;
+Icon=WichCraft.png
+X-DocPath=yourapp/index.html
+Terminal=false
+Name=WichCraft
+GenericName=WichCraft
+Comment=Sandwich crafting software with a bit of WitchCraft. Manage a sub shop or burger joint, or just your own house with WichCraft.
+Categories=Qt;KDE;
+# File info
+# File type: KDE desktop entry (*.desktop)
+# File version: 1 (2022, Thursday, June 23rd at 2:37 pm PST)
+# Line count (including blank lines and compiler line): 16
