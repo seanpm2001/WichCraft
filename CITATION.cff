@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "WichCraft is a sandwich crafting software, and management tool. If you use WichCraft for your business/personal use, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Git-Templates"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-06-23
+url: "https://github.com/seanpm2001/WichCraft"
+cff-version: 1.2.0
+message: "If you use WichCraft for your business/personal use, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Free, Libre, and Open Source Sandwich crafting software, written in Gherkin"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-06-23
+url: "https://github.com/seanpm2001/WichCraft"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "WichCraft journal title"
+  month: 6
+  start: 1 # First page number
+  end: 10000 # Last page number
+  title: "WichCraft is a sandwich crafting software, and management tool. If you use WichCraft for your business/personal use, please cite it as below."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Saturday, June 25th at 4:05 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
