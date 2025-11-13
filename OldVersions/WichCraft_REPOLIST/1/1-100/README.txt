@@ -2,7 +2,7 @@
 //// WichCraft_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all WichCraft project repositories by @seanpm2001
-//// As of 2025, Tuesday, August 26th
+//// As of 2025, Wednesday, November 12th
 
 //// ----------------------------------------------------- \\\\
 //// WichCraft Project (3)
@@ -13,8 +13,6 @@
 https://github.com/seanpm2001/WichCraft
 
 //// WichCraft Documentation (1)
-
-//// Coming soon
 
 https://github.com/seanpm2001/WichCraft_Docs
 
@@ -43,8 +41,8 @@ https://github.com/seanpm2001/WichCraft_Website
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Tuesday, August 26th at 09:32 pm PST)
-//// Line count (including blank lines and compiler line): 51
+//// File version: 2 (2025, Wednesday, November 12th at 09:01 pm PST)
+//// Line count (including blank lines and compiler line): 49
 //// ----------------------------------------------------- \\\\
 
 //// End of file
